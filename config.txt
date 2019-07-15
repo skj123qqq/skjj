@@ -3,4 +3,4 @@ prefix=sk
 game=skplay
 stayinchannel=true
 songinstatus=false
-token=NDY3NjQ3MzA4OTE0MjI5MjU4.XSyeLQ.F-ZAV-EtmHniDBRpPon2MKGQjFQ
+token=NjAwMzU3MDA5NjM1NjcyMTI2.XSykEA.20k4S0qYngL_lVn-IWy165Fsw6E
