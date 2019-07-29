@@ -1,6 +1,0 @@
-owner=280319019528093696
-prefix=sk
-game=skplay
-stayinchannel=true
-songinstatus=false
-token=NjAwMzU3MDA5NjM1NjcyMTI2.XSykEA.20k4S0qYngL_lVn-IWy165Fsw6E
